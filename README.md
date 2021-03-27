@@ -9,3 +9,7 @@ logical programs
 6.string functions
 7.binaries
 8.twice the number
+9.string ends with chr
+10.1st middle last of each word
+11.upper and lower case of str
+12.middle string and word of sentence
