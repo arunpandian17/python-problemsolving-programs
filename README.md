@@ -13,3 +13,6 @@ logical programs
 10.1st middle last of each word
 11.upper and lower case of str
 12.middle string and word of sentence
+13.lapindrome
+14.vowels and cons program
+15.special char remover program(like  . , etc)
