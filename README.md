@@ -16,3 +16,5 @@ logical programs
 13.lapindrome
 14.vowels and cons program
 15.special char remover program(like  . , etc)
+16.consective sum of number
+17.maximum substring
