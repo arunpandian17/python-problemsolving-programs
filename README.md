@@ -18,3 +18,5 @@ logical programs
 15.special char remover program(like  . , etc)
 16.consective sum of number
 17.maximum substring
+18.Pattern program: Heart shape
+19.pattern program: pyramid numbers 
