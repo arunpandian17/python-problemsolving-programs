@@ -20,3 +20,6 @@ logical programs
 17.maximum substring
 18.Pattern program: Heart shape
 19.pattern program: pyramid numbers 
+20.Angle Pattern
+21.Number Pattern
+22.Reverse Index Pattern
