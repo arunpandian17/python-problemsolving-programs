@@ -23,3 +23,6 @@ logical programs
 20.Angle Pattern
 21.Number Pattern
 22.Reverse Index Pattern
+23.simple pattern
+24.reverse pattern 2
+25.pattern 54321
