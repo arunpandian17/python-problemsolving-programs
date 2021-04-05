@@ -26,3 +26,4 @@ logical programs
 23.simple pattern
 24.reverse pattern 2
 25.pattern 54321
+26.tree index
