@@ -27,3 +27,6 @@ logical programs
 24.reverse pattern 2
 25.pattern 54321
 26.tree index
+27.theif adjacent house problem
+28.extract num
+
