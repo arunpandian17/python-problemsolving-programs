@@ -29,4 +29,6 @@ logical programs
 26.tree index
 27.theif adjacent house problem
 28.extract num
+29.basic oop question
+30.sequence problem
 
